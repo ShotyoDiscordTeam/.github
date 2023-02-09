@@ -1,12 +1,9 @@
-## Hi there 👋
+## 所長の研究所 Discord Team
 
-<!--
+![Untitled](https://user-images.githubusercontent.com/10093384/217965086-74694b24-d43b-413b-ae33-5df5fb4f5f3f.png)
 
-**Here are some ideas to get you started:**
+## 所長コミュニティサーバーについて
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+所長コミュニティサーバー、通称**所長鯖**はYouTubeチャンネル『**[所長 / Shotyou](https://www.youtube.com/channel/UCKi_4uuhnoRpX_YXLIon3RQ)**』のDiscordコミュニティが運営している統合版マイクラサーバーです。
+
+[![サービス紹介動画](https://user-images.githubusercontent.com/10093384/217965086-74694b24-d43b-413b-ae33-5df5fb4f5f3f.png)](https://www.youtube.com/watch?v=bFgGC7cK_BY&ab_channel=%E6%89%80%E9%95%B7%2FShotyou)
